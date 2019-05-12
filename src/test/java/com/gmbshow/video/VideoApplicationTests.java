@@ -1,4 +1,4 @@
-package com.mbshow.video;
+package com.gmbshow.video;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
